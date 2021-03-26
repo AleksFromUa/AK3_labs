@@ -4,7 +4,7 @@
 .syntax unified
 #define a #2
 #define b #8
-#define c #2
+#define c #3
 lab1:
     push {lr}
     // calculate 
